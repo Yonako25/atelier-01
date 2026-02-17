@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"instance_a","Source":"./modules/instance","Dir":"modules/instance"},{"Key":"instance_b","Source":"./modules/instance","Dir":"modules/instance"},{"Key":"network","Source":"./modules/network","Dir":"modules/network"},{"Key":"s3_docs","Source":"./modules/s3_docs","Dir":"modules/s3_docs"}]}
